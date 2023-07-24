@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/rr_kawchar" target="blank"><img src="https://img.shields.io/twitter/follow/rr_kawchar?logo=twitter&style=for-the-badge" alt="rr_kawchar" /></a> </p>
 
-- 🔭 I’m currently working on [Tech Stacks app](https://github.com/RRKawchar/country_details_app.git)
+- 🔭 I’m currently working on [Country Details App](https://github.com/RRKawchar/country_details_app.git)
 
 - 🌱 I’m currently learning **Flutter**
 - 📫 How to reach me **riyazurrohmankawchar@gmail.com**
