@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Riyazur Rohman Kawchar</h1>
-<h2 align="left">Hi 👋, I'm Riyazur Rohman Kawchar</h2>
-<h3 align="left">A passionate Flutter developer from Bangladesh</h3>
+<h2 align="left">Software Engineer(Flutter)</h2>
+<h3 align="left">With over two years of Flutter app development experience, I've successfully created ride-sharing, e-commerce, news portal, and wallpaper applications.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.pixelcrayons.com/blog/wp-content/uploads/2021/08/great-coder.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rrkawchar&label=Profile%20views&color=0e75b6&style=flat" alt="rrkawchar" /> </p>
